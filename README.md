@@ -1,4 +1,4 @@
-# dummy-db-data
+
 # Django Project: Fake Data Generation
 
 This project demonstrates how to generate and populate a Django PostgreSQL database with dummy data, including handling `unique_together` constraints and relationships like `ForeignKey` and `ManyToManyField`.
