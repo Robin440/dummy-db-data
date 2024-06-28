@@ -23,7 +23,7 @@ This project demonstrates how to generate and populate a Django PostgreSQL datab
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/fake_data_generation.git
+    https://github.com/Robin440/dummy-db-data-using-fake-package-.git
     cd fake_data_generation
     ```
 
